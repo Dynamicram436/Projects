@@ -1,0 +1,649 @@
+<!DOCTYPE html>
+<html lang="zxx">
+   <head>
+      <!-- meta tag -->
+      <meta charset="utf-8">
+      <title>Welcome to Dream India School</title>
+      <meta name="description" content="">
+      <!-- responsive tag -->
+      <meta http-equiv="x-ua-compatible" content="ie=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <!-- favicon -->
+      <link rel="shortcut icon" type="image/x-icon" href="images/fav.png">
+      <!-- bootstrap v4 css -->
+      <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+      <!-- font-awesome css -->
+      <link rel="stylesheet" type="text/css" href="css/font-awesome.min.css">
+      <link rel="stylesheet" href="css/fontello.css">
+      <!-- animate css -->
+      <link rel="stylesheet" type="text/css" href="css/animate.css">
+      <!-- hover css -->
+      <link rel="stylesheet" type="text/css" href="css/hover-min.css">
+      <!-- owl.carousel css -->
+      <link rel="stylesheet" type="text/css" href="css/owl.carousel.css">
+      <!-- off canvas css -->
+      <link rel="stylesheet" type="text/css" href="css/off-canvas.css">
+      <!-- flaticon css  -->
+      <link rel="stylesheet" type="text/css" href="fonts/flaticon.css">
+      <!-- rsmenu CSS -->
+      <link rel="stylesheet" type="text/css" href="css/rsmenu-main.css">
+      <!-- magnific popup css -->
+      <link rel="stylesheet" type="text/css" href="css/magnific-popup.css">
+      <!-- rsmenu transitions CSS -->
+      <link rel="stylesheet" type="text/css" href="css/rsmenu-transitions.css">
+      <!-- style css -->
+      <link rel="stylesheet" type="text/css" href="style.css">
+      <!-- switch color presets css -->
+      <link id="switch_style" href="#" rel="stylesheet" type="text/css">
+      <!-- responsive css -->
+      <link rel="stylesheet" type="text/css" href="css/responsive.css">
+      <link type="text/css" rel="stylesheet" href="css/popup-image.css">
+      <script language="javascript" src="js/pop-image.js"></script>
+   </head>
+   <body class="home-three">
+      <!--  <div id="zz_custom_ol_content" class="zz_custom_ol_content">
+         <a href="images/popup.jpg" target="_blank" style="font-size: 16px;
+         
+            color: #fff;
+            margin-top: -32px;
+            position: absolute;
+            text-align: center;width: inherit;">Click to Enlarge Image</a>
+         
+         <a class="closebtn" onClick="zz_custom_wad_off();" alt="Close" title="Close"><span>x</span></a>
+         
+         <a onClick="zz_custom_wad_off();"><img border="0" src="images/popup.jpg" class="img-responsive" title="" alt=""></a>
+         </div> -->
+      <!-- <div id="zz_custom_overlay" class="zz_custom_overlay" onClick="zz_custom_wad_off()" style="width: 200px; height: 200px; display: none;">
+         </div> -->
+      <!-- Preloader Start -->
+      <div class="loading">
+         <div class="loading-text">
+            <!-- <span class="loading-text-words">D</span>
+               <span class="loading-text-words">R</span>
+   
+               <span class="loading-text-words">E</span>
+  
+               <span class="loading-text-words">A</span>
+    
+               <span class="loading-text-words">M</span>
+ 
+               <span class="loading-text-words">I</span>
+
+               <span class="loading-text-words">N</span>
+
+               <span class="loading-text-words">D</span>
+
+               <span class="loading-text-words">I</span>
+
+               <span class="loading-text-words">A</span> -->
+         </div>
+      </div>
+      <!-- Preloader End -->
+      <!--Full width header Start-->
+      <section class="full-width-header">
+         <div class="topbar-section">
+            <div class="container">
+               <div class="row align-items-center">
+                  <div class="col-md-7">
+                     <ul class="mail-info">
+                        <li> <a href="mailto:enquiry@dreamindia.com"><i class="glyph-icon flaticon-mail"></i>enquiry@dreamindia.com</a></li>
+                     </ul>
+                  </div>
+                  <div class="col-md-5">
+                     <div class="right-text text-right fix">
+                        <div class="social-link">
+                           <ul>
+                              <li><a href="https://www.facebook.com/DISDreamIndia/" target="_blank"><i class="fa fa-facebook-official"></i></a></li>
+                              <li><a href="https://twitter.com/disdreamindia" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                              <li><a href="https://www.youtube.com/channel/UCSryk5VyUGlVM_ydGDheeMA" target="_blank"><i class="fa fa-youtube"></i></a></li>
+                              <li><a href="https://www.instagram.com/disdreamindia/" target="_blank"><i class="fa fa-instagram"></i></a></li>
+                              <li><a href="https://www.linkedin.com/company/dreamindiaschoolsdis/" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+                           </ul>
+                        </div>
+                        <div class="get-qoute">
+                           <a href="https://dis.myclassboard.com" target="_blank"><b><i class="fa fa-user-o"></i> ERP Login</b></a>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <!--Header Start-->
+         <header id="rs-header" class="rs-header header-style-3">
+            <!-- Menu Start -->
+            <div class="menu-area menu-sticky transparent">
+               <div class="container">
+                  <div class="main-menu">
+                     <div class="row align-items-center">
+                        <div class="col-lg-3">
+                           <div class="logo-area sm-center">
+                              <a href="index.html"><img src="images/logo.png" alt="logo"></a>
+                           </div>
+                        </div>
+                        <div class="col-lg-9 search-bar">
+                           <div class="header-mid-section display-flex-center">
+                              <div class="right-menu-area">
+                                 <a class="rs-menu-toggle"><i class="fa fa-bars"></i>Menu</a>
+                                 <nav class="rs-menu">
+                                    <ul class="nav-menu">
+                                       <li class="current-menu-item"><a href="index.html" class="home active-icon"><span data-hover="Home">Home</span></a>
+                                       </li>
+                                       <li class="menu-item-has-children">
+                                          <a href="#"><span data-hover="About DIS">About DIS</span></a>
+                                          <ul class="sub-menu">
+                                             <li><a href="the-dis-story.html">The DIS Story</a></li>
+                                          </ul>
+                                       </li>
+                                       <!-- <li><a href="#"><span data-hover="Team">Team</span></a></li> -->
+                                       <li class="menu-item-has-children">
+                                          <a href="#"><span data-hover="Academics">Academics</span></a>
+                                          <ul class="sub-menu">
+                                             <li><a href="curriculum.html">Curriculum</a></li>
+                                             <li><a href="methodology.html">Methodology</a></li>
+                                             <li><a href="assessment.html">Assessment</a></li>
+                                          </ul>
+                                       </li>
+                                       <li><a href="facilities.html"><span data-hover="Facilities">Facilities</span></a></li>
+                                       <li><a href="activities.html"><span data-hover="Activities">Activities</span></a></li>
+                                       <li><a href="careers.html"><span data-hover="Careers">Careers</span></a></li>
+                                       <li><a href="admissions.html"><span data-hover="Admissions">Admissions</span></a></li>
+                                       <li><a href="photo-gallery.html"><span data-hover="Gallery">Gallery</span></a></li>
+                                       <li><a href="faqs.html"><span data-hover="FAQ's">FAQ's</span></a></li>
+                                       <li><a href="contact-us.html"><span data-hover="Contact">Contact</span></a></li>
+                                    </ul>
+                                 </nav>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <!-- Menu End -->
+            <div class="rs-header-top">
+               <div class="container">
+                  <div class="row align-items-end">
+                     <div class="col-lg-9">
+                        <div class="header-information left-section display-flex">
+                           <div class="header-contact">
+                              <div id="phone-details" class="widget-text">
+                                 <i class="glyph-icon flaticon-trust-1"></i>
+                                 <div class="info-text">
+                                    <span>6</span>
+                                    States
+                                 </div>
+                              </div>
+                           </div>
+                           <div class="header-contact">
+                              <div id="info-details" class="widget-text">
+                                 <i class="glyph-icon flaticon-check"></i>
+                                 <div class="info-text">
+                                    <span>35</span>
+                                    Schools
+                                 </div>
+                              </div>
+                           </div>
+                           <div class="header-contact">
+                              <div id="address-details" class="widget-text">
+                                 <i class="glyph-icon flaticon-gps"></i>
+                                 <div class="info-text">
+                                    <a href="school-locator.html" class="sl-txt-white"><span>School</span>
+                                    Locator</a> 
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="col-lg-3 text-right">
+                        <div class="office-time">
+                           <i class="fa fa-clock-o" aria-hidden="true"></i> Toll Free: <a href="tel:1800 891 1256">1800 891 1256</a>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </header>
+         <div class="enquiry_btn">
+            <div class="enqbtn">
+               <a class="button" href="enquiry.html"><span>Enquiry</span></a>
+               <!-- <a class="button" href="images/downloads/DIS-Brochure-2022-23.pdf" target="_blank"><span>Brochure</span></a> -->
+            </div>
+         </div>
+         <!--Header End-->
+      </section>
+      <!--Full width header End-->
+      <!--Slider Section Start-->
+      <div id="rs-home-slider" class="rs-home-slider home3-slider">
+         <div class="slider-carousel owl-carousel">
+            <div class="single-slider">
+               <img src="images/slider/slide1.jpg" alt="">
+               <div class="content-inner2">
+                  <div class="container">
+                     <div class="slider-text">
+                        <h4 class="sl-subtitle wow fadeInDown">Dreams India Schools</h4>
+                        <h1 class="sl-title wow fadeInDown"><span>Children aren't Meant to be Moulded</span>They are meant to be unfolded.</h1>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <!-- //.single-slider -->
+            <div class="single-slider">
+               <img src="images/slider/slide2.jpg" alt="">
+               <div class="content-inner2">
+                  <div class="container">
+                     <div class="slider-text text-left">
+                        <h3 class="sl-subtitle wow fadeInDown">Dreams India Schools</h3>
+                        <h1 class="sl-title wow fadeInDown"><span>Every child is </span>God’s masterpiece.</h1>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <!-- //.single-slider -->
+            <div class="single-slider">
+               <img src="images/slider/slide3.jpg" alt="">
+               <div class="content-inner2">
+                  <div class="container">
+                     <div class="slider-text text-left">
+                        <h3 class="sl-subtitle wow fadeInDown">Dreams India Schools</h3>
+                        <h1 class="sl-title wow fadeInDown"><span>Imagination and Creativity can </span>change the world.</h1>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <!-- //.single-slider -->
+            <div class="single-slider">
+               <img src="images/slider/slide4.jpg" alt="">
+               <div class="content-inner2">
+                  <div class="container">
+                     <div class="slider-text text-left">
+                        <h3 class="sl-subtitle wow fadeInDown">Dreams India Schools</h3>
+                        <h1 class="sl-title wow fadeInDown"><span>Education relevant to </span>today’s world.</h1>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <!-- //.single-slider -->
+         </div>
+         <!-- //.slider-carousel -->
+      </div>
+      <!--Slider Section End-->
+      <!-- Process Section Start-->
+      <div class="rs-process-section clearfix">
+         <div class="container-fluid ps-relative">
+            <div class="row align-items-center no-gutters">
+               <div class="col-lg">
+                  <div class="process-inner active">
+                     <div class="process-item text-center">
+                        <div style="clear: both; height: 20px;"></div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <!-- .container end -->
+      </div>
+      <!-- Process Section End-->
+      <!-- About Section Start-->
+      <div id="rs-about" class="rs-about-construction pt-30 pb-60 clearfix">
+         <div class="container ps-relative">
+            <div class="row align-items-center">
+               <div class="col-lg-7 mmb-60">
+                  <div class="rs-title2 margin-0">
+                     <span>Welcome to </span>
+                     <h2 class="mb-25">Dream India Schools</h2>
+                     <!-- <p class="mb-20">Dream India Schools is one of the largest educational chains established on 23rd November, 2013, by GEMS Education, a renowned global leader, having presence in 13 countries.</p> -->
+                     <p class="mb-20">Dream India Schools is one of the largest educational chains established on 23rd November, 2013, and having presence in 6 states.</p>
+                     <p>Dream India Schools is a rising chain, with a network of more than 11000 students and about 600 teachers, all with a bent for achieving a better tomorrow. Every student at Dream India Schools is nurtured to be a well-spoken and responsible citizen and is encouraged to dream ahead. DIS transforms students' dreams to reality through effectively designed curriculum, relevant to today’s world.</p>
+                     <p>Dream India is a dream to see an Educated and Empowered India! Today, DIS stands tall with 35 schools, spread across 6 states in India, evolving into a better and larger group.</p>
+                  </div>
+                  <div class="services-list">
+                     <h4 class="sub-title" style="font-weight: normal; font-size: 16px;"><b>Join us in making this dream a reality!</b></h4>
+                  </div>
+               </div>
+               <div class="col-lg-5">
+                  <div class="about-left-image d-pl-30"> 
+                     <img src="images/right-1.png" alt="">
+                  </div>
+               </div>
+            </div>
+         </div>
+         <!-- .container end -->
+      </div>
+      <!-- About Section End-->
+      <!-- Customer Counter Start-->
+      <div class="rs-customer-counter bg5">
+         <div class="container_fluid">
+            <div class="row">
+               <div class="col-lg-8 offset-lg-4">
+                  <div class="customer-inner-counter primary-bg">
+                     <div class="custom-max-width">
+                        <div class="rs-title2 mb-45 white-text">
+                           <span>Our Success</span>
+                           <h2>Why Choose DIS?</h2>
+                           <p>The main premise of starting the school is to ensure a more ethical and responsible future generation. Hence a lot of emphasis is laid on academics, value education and discipline.</p>
+                        </div>
+                        <div class="row mb-40">
+                           <div class="col-md-4">
+                              <div class="about-service-item display-flex-center">
+                                 <div class="service-icon">
+                                    <i class="glyph-icon flaticon-satisfaction"></i>
+                                 </div>
+                                 <div class="title">
+                                    Student Centric Approach
+                                 </div>
+                              </div>
+                           </div>
+                           <div class="col-md-4">
+                              <div class="about-service-item display-flex-center mt-sm-30 mb-sm-30">
+                                 <div class="service-icon">
+                                    <i class="glyph-icon flaticon-repair-expert"></i>
+                                 </div>
+                                 <div class="title">
+                                    Experienced <br>Faculty
+                                 </div>
+                              </div>
+                           </div>
+                           <div class="col-md-4">
+                              <div class="about-service-item display-flex-center">
+                                 <div class="service-icon">
+                                    <i class="glyph-icon flaticon-hotel"></i>
+                                 </div>
+                                 <div class="title">
+                                    Best<br>Practices
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="row">
+                           <div class="col-md-4">
+                              <div class="rs-counter-list">
+                                 <div class="counter-text">
+                                    <div class="rs-counter">11000</div>
+                                    <h5>Students</h5>
+                                 </div>
+                              </div>
+                           </div>
+                           <div class="col-md-4">
+                              <div class="rs-counter-list mt-sm-30 mb-sm-30">
+                                 <div class="counter-text">
+                                    <div class="rs-counter">600</div>
+                                    <h5>Qualified Staff</h5>
+                                 </div>
+                              </div>
+                           </div>
+                           <!-- <div class="col-md-4">
+                              <div class="rs-counter-list">
+
+                                  <div class="counter-text">
+                              
+
+                                      <div class="rs-counter">400</div>                
+
+                                      <h5>Awards</h5>
+
+                                  </div>
+
+                              
+                              </div>
+
+                              
+                              </div> -->
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+      <!-- Customer Counter End-->
+      <!-- Quality Services Section Start-->
+      <div class="rs-quality-services negative-margin bg6 pt-120 pb-50">
+         <div class="container">
+            <div class="row align-items-center mb-40">
+               <div class="col-md-9">
+                  <div class="rs-title2 mb-0">
+                     <span>Dream India Schools</span>
+                     <h2 class="white-color">Advantages</h2>
+                  </div>
+               </div>
+               <div class="col-md-3">
+                  <div class="view-all-service text-right mb-left">
+                     <a class="readon white-color" href="facilities.html">View all Facilities</a>
+                  </div>
+               </div>
+            </div>
+            <div class="rs-carousel owl-carousel" data-loop="true" data-items="4" data-margin="20" data-autoplay="true" data-autoplay-timeout="7000" data-smart-speed="2000" data-dots="false" data-nav="false" data-nav-speed="false" data-mobile-device="1" data-mobile-device-nav="false" data-mobile-device-dots="false" data-ipad-device="2" data-ipad-device-nav="false" data-ipad-device-dots="false" data-ipad-device2="2" data-ipad-device-nav2="false" data-ipad-device-dots2="false" data-md-device="4" data-md-device-nav="false" data-md-device-dots="false">
+               <div class="service-items">
+                  <div class="service-content">
+                     <div class="service-icon">
+                        <i class="glyph-icon icon-adjust"></i>
+                     </div>
+                     <h4 class="title"><a href="facilities.html">Qualitative Focus</a></h4>
+                     <p class="text-left">Creative learning outcomes are developed, our students are trained, not merely to be good persons, but personalities.</p>
+                     <!-- <a class="view-details" href="facilities.html">View Details</a> -->
+                  </div>
+               </div>
+               <div class="service-items">
+                  <div class="service-content">
+                     <div class="service-icon">
+                        <i class="glyph-icon icon-desktop-3"></i>
+                     </div>
+                     <h4 class="title"><a href="facilities.html">Technology</a></h4>
+                     <p class="text-left">The use of technology in learning is purposive and controlled,it is also implemented in evaluating and managing solutions..</p>
+                  </div>
+               </div>
+               <div class="service-items">
+                  <div class="service-content">
+                     <div class="service-icon">
+                        <i class="glyph-icon icon-heart-circled"></i>
+                     </div>
+                     <h4 class="title"><a href="facilities.html">Health & Safety</a></h4>
+                     <p class="text-left">Our students feel safe and secure in a protected environment where teachers and helpers are always around, to escort and guide.</p>
+                  </div>
+               </div>
+               <div class="service-items">
+                  <div class="service-content">
+                     <div class="service-icon">
+                        <i class="glyph-icon icon-pitch"></i>
+                     </div>
+                     <h4 class="title"><a href="facilities.html">Sports</a></h4>
+                     <p class="text-left">We promote self-confidence, teamwork and leadership through   various sports and games..</p>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+      <!-- Quality Services Section End-->
+      <!-- Project Section Start-->
+      <div class="rs-project-section2 rs-team-section sec-spacer2" style="display:none;">
+         <div class="container ps-relative z-index-1">
+            <div class="row align-items-center mb-20">
+               <div class="col-md-9">
+                  <div class="rs-title2 mb-0">
+                     <!-- <span>Our Mentors</span> -->
+                     <h2>Our Mentors</h2>
+                  </div>
+               </div>
+               <div class="col-md-3">
+                  <div class="view-all-service text-right mb-left">
+                     <a class="readon" href="team.html">View Leadership</a>
+                  </div>
+               </div>
+            </div>
+            <div class="row" >
+               <div class="col-md-3"></div>
+               <div class="col-md-3">
+                  <div class="leader_b">
+                     <img src="images/team/farooq.jpg" alt="">
+                     <div class="normal-text">
+                        <h4 class="person-name"><a href="#">Dr. Farooq Wasil</a></h4>
+                        <div class="designation">Global Head, Affordable Schools, GEMS Education</div>
+                     </div>
+                  </div>
+               </div>
+               <div class="col-md-3">
+                  <div class="leader_b">
+                     <img src="images/team/fernandes.jpg" alt="">
+                     <div class="normal-text">
+                        <h4 class="person-name"><a href="#">Brian Fernandes</a></h4>
+                        <div class="designation">Director, Finance,<br>GEMS Education</div>
+                     </div>
+                  </div>
+               </div>
+               <div class="col-md-3"></div>
+            </div>
+         </div>
+      </div>
+      <!-- Project Section End-->
+      <!-- Newsletter Start -->
+      <div id="newsletter-section" class="newsletter-section pt-95 pb-170 bg7">
+         <div class="container">
+            <div class="row justify-content-center">
+               <div class="col-xl-8 col-lg-8">
+                  <div class="subscribe-inner">
+                     <div class="subscribe-text text-center">
+                        <span class="sub-title">Admissions Open for the Academic Year - 2024-2025</span>
+                        <h3 class="title">Any Enquiry call us : <a href="tel:1800 891 1256">1800 891 1256</a></h3>
+                        <div class="contact-info">
+                           <span><i class="fa fa-envelope-open-o"></i> <a href="admissions.html">enquiry@dreamindia.com </a></span>
+                        </div>
+                        <!-- <div style="margin-top:30px;">
+                           <a class="readon btn1" href="images/downloads/DIS-Brochure-2022-23.pdf" target="_blank"><i class="fa fa-download" style="color:#fff;"></i> Download Brochure</a>
+                           
+                           </div> -->
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+      <!-- Newsletter End -->
+      <!-- Footer Start -->
+      <footer id="rs-footer" class="rs-footer pt-40">
+         <div class="footer-top">
+            <div class="container">
+               <div class="row">
+                  <div class="col-lg-3 single-footer-column mb-md-30">
+                     <div class="about-widget">
+                        <div class="footer-info mb-50">
+                           <p class="footer-desc white-color"><a href="index.html"><img src="images/logo.png" alt="logo"></a></p>
+                        </div>
+                        <ul class="social-links">
+                           <li><a href="https://www.facebook.com/DISDreamIndia/" target="_blank"><i class="fa fa-facebook-official"></i></a></li>
+                           <li><a href="https://twitter.com/disdreamindia" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                           <li><a href="https://www.youtube.com/channel/UCSryk5VyUGlVM_ydGDheeMA" target="_blank"><i class="fa fa-pinterest-p"></i></a></li>
+                           <li><a href="https://www.instagram.com/disdreamindia/" target="_blank"><i class="fa fa-instagram"></i></a></li>
+                           <li><a href="https://www.linkedin.com/company/dreamindiaschoolsdis/" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+                        </ul>
+                     </div>
+                  </div>
+                  <div class="col-lg-2 single-footer-column mb-md-30">
+                     <div class="footer-menu">
+                        <h5 class="footer-title">DIS Links</h5>
+                        <ul>
+                           <li><a href="the-dis-story.html">About Us</a></li>
+                           <!-- <li><a href="team.html">Team</a></li> -->
+                           <li><a href="curriculum.html">Academics</a></li>
+                           <li><a href="facilities.html">Facilities</a></li>
+                           <li><a href="activities.html">Activities</a></li>
+                           <li><a href="contact-us.html">Contact Us</a></li>
+                        </ul>
+                     </div>
+                  </div>
+                  <div class="col-lg-5 single-footer-column">
+                     <h5 class="footer-title">Head Office</h5>
+                     <ul class="footer-address">
+                        <li class="display-flex">
+                           <div class="icon-tag">
+                              <i class="fa fa-map-marker"></i> 
+                           </div>
+                           <div class="info">
+                              C 310-311, Unitech Business Zone, Nirvana Country South City 2, <br>Sector 50 Gurugram, Pin 122018.
+                              <!-- # 7-1-28/4/4, Swathi Plaza, 2nd floor, Shyamkaran Road,<br>Opp. lane to Apollo Spectra Hospital, Begumpet,<br> Hyderabad - 500016, Telangana, INDIA. -->
+                           </div>
+                        </li>
+                        <li class="align-items-center display-flex">
+                           <div class="icon-tag">
+                              <i class="fa fa-phone"></i> 
+                           </div>
+                           <div class="info">
+                              <a href="tel:1800 891 1256">1800 891 1256</a> 
+                           </div>
+                        </li>
+                        <li class="align-items-center display-flex">
+                           <div class="icon-tag">
+                              <i class="fa fa-envelope-o"></i> 
+                           </div>
+                           <div class="info">
+                              <a href="mailto:enquiry@dreamindia.com">enquiry@dreamindia.com</a> 
+                           </div>
+                        </li>
+                     </ul>
+                  </div>
+                  <div class="col-lg-2 single-footer-column mb-md-30">
+                     <!-- <div class="footer-menu">
+                        <h5 class="footer-title">An initiative of </h5>
+                        
+                        <div class="footer-info mb-50">
+                        
+                           <p class="footer-desc white-color"><img src="images/gems-education.png"></p>
+                        
+                        </div>
+                        
+                        </div> -->
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="footer-bottom">
+            <div class="container">
+               <div class="row align-items-center">
+                  <div class="col-md-11">
+                     <div class="copyright">
+                        <p>
+                           Copyrights &copy; <script>document.write(new Date().getFullYear());</script> Dream India Schools | All Rights Reserved.
+                        </p>
+                     </div>
+                  </div>
+                  <div class="col-md-1  text-center"><a href="http://www.foreedge.com" target="_blank" title="Web Designing &amp; Mobile Apps Development Company, SEO Consultants, Hyderabad, India."><img src="images/foreedge-services.png"></a></div>
+               </div>
+            </div>
+         </div>
+      </footer>
+      <!-- Footer End -->
+      <!-- Scrool to Top Start -->
+      <div id="scrollUp">
+         <i class="fa fa-angle-up"></i>
+      </div>
+      <!-- Scrool to Top End -->
+      <!-- modernizr js -->
+      <script src="js/modernizr-2.8.3.min.js"></script>
+      <!-- jquery latest version -->
+      <script src="js/jquery.min.js"></script>
+      <!-- Skill bar js -->
+      <script src="js/skill.bars.jquery.js"></script>
+      <!-- counter top js -->
+      <script src="js/jquery.counterup.min.js"></script>
+      <script src="js/waypoints.min.js"></script>
+      <!-- bootstrap js -->
+      <script src="js/bootstrap.min.js"></script>
+      <!-- owl.carousel js -->
+      <script src="js/owl.carousel.min.js"></script>
+      <!-- magnific popup -->
+      <script src="js/jquery.magnific-popup.min.js"></script>
+      <!-- slick js -->
+      <script src="js/slick.min.js"></script>
+      <!-- isotope.pkgd.min js -->
+      <script src="js/isotope.pkgd.min.js"></script>
+      <!-- imagesloaded.pkgd.min js -->
+      <script src="js/imagesloaded.pkgd.min.js"></script>
+      <!-- wow js -->
+      <script src="js/wow.min.js"></script>
+      <!-- rsmenu js -->
+      <script src="js/rsmenu-main.js"></script>
+      <!-- plugins js -->
+      <script src="js/plugins.js"></script>
+      <!-- main js -->
+      <script src="js/main.js"></script>
+   </body>
+</html>
