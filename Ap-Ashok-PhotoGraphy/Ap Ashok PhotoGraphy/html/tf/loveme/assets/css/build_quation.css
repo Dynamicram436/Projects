@@ -1,0 +1,39 @@
+
+        .Mapple-container {
+            display: flex;
+            gap: 40px;
+            justify-content: center;
+        }
+        .Mapple-container > div {
+            width: 200px;
+            text-align: center;
+        }
+        .Mapple-container img {
+            width: 100%;
+            height: 150px; /* Set a fixed height for all images */
+            object-fit: cover; /* Ensure images cover the container without distortion */
+        }
+        h1 {
+            font-size: 20px;
+            font-weight: bold;
+            margin: 10px 0;
+            height: 40px; /* Set a fixed height for headings */
+            line-height: 40px; /* Vertically center text */
+        }
+        h6 {
+            font-size: 20px;
+            font-weight: bold;
+            margin: 10px 0;
+            height: 40px; /* Set a fixed height for h6 */
+            line-height: 40px; /* Vertically center text */
+        }
+        p {
+            font-size: 16px;
+            margin: 10px 0;
+            height: 40px; /* Set a fixed height for paragraphs */
+            line-height: 40px; /* Vertically center text */
+            text-align: center;
+        }
+        #head_content {
+            margin-top: 10px;
+        }

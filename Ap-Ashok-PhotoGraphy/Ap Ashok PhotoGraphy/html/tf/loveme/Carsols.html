@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="assets/css/nav.css" rel="stylesheet">
+
+
+    <title>Image Carousel</title>
+    
+     
+    
+</head>
+<body>
+    <div class="nav-main">
+    <nav>
+        <a href="birthday.html">Bitrhdays</a>
+        <a href="half-saree.html">Half-Saree</a>
+
+
+        <a href="dhoti.html">Dhoti Function</a>
+        <a href="Enagement.html">Enagement</a>
+
+        <a href="Wedding.html">Wedding</a>
+        <a href="Politices.html">Political Events</a>
+        
+        <!-- Dropdown Menu -->
+        
+
+        <a href="Retairement.html">Retairements</a>
+    </nav>
+
+
+ 
+                               
+
+
+
+
+    <div class="carousel-main">
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <div class="carousel">
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <img src="./assets/images/testimonial/baby-shoot2.jpg" alt="Image 1">
+            </div>
+            <div class="carousel-item">
+                <img src="./assets/images/testimonial/baby-shoot.jpg" alt="Image 2">
+            </div>
+            <div class="carousel-item">
+                <img src="./assets/images/testimonial/baby-shoot3.jpg" alt="Image 3">
+            </div>
+        </div>
+        <button class="prev" onclick="prevSlide()">❮</button>
+        <button class="next" onclick="nextSlide()">❯</button>
+    </div>
+</div>
+</div>
+
+    <script>
+        let currentIndex = 0;
+        const items = document.querySelectorAll('.carousel-item');
+
+        function showSlide(index) {
+            items.forEach((item, i) => {
+                item.style.display = i === index ? 'block' : 'none';
+            });
+        }
+
+        function nextSlide() {
+            currentIndex = (currentIndex + 1) % items.length;
+            showSlide(currentIndex);
+        }
+
+        function prevSlide() {
+            currentIndex = (currentIndex - 1 + items.length) % items.length;
+            showSlide(currentIndex);
+        }
+
+        // Initial display
+        showSlide(currentIndex);
+
+        // Optional: Auto-slide every 3 seconds
+        setInterval(nextSlide, 3000);
+    </script>
+</body>
+</html>
